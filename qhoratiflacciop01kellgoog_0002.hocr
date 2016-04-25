@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiflacciop01kellgoog_0002.png"; bbox 0 0 3209 5200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1599 551 1632 600">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1599 551 1632 600">
+     <span class='ocr_line' id='line_1_1' title="bbox 1599 551 1632 600; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1599 551 1632 600; x_wconf 72' lang='lat' dir='ltr'><em>(l</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1716 511 2061 628">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1716 511 2061 628">
+     <span class='ocr_line' id='line_1_2' title="bbox 1716 511 2061 628; baseline 0.017 -41"><span class='ocrx_word' id='word_1_2' title='bbox 1716 511 2061 628; x_wconf 58' lang='lat' dir='ltr'><em>(‚(.f.³,&#39;s</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2020 517 2152 584">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2020 517 2152 584">
+     <span class='ocr_line' id='line_1_3' title="bbox 2020 517 2152 584; baseline -0.023 -16"><span class='ocrx_word' id='word_1_3' title='bbox 2020 517 2152 584; x_wconf 59' lang='lat'><em>(⁴2</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
